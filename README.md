@@ -30,7 +30,8 @@ $ python bot.py
 ```
 ##### Note
 ```
-Please open the cfg.ini file first and fill it inPlease open the cfg.ini file first and fill it in 
+Please open the cfg.ini file first, fill in the data
+properly so that no errors occur
 ```
 
 
